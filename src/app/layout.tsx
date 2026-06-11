@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Design 4",
-  description: "Converted to Next.js",
+  title: "Creyotech",
+  description: "Creyotech IT Services",
 };
 
 export default function RootLayout({
